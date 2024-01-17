@@ -1,2 +1,2 @@
 # yapayzekakavramlari.github.io
-Yapay Zeka Kavramları Resmi Veb Sitesi
+Yapay Zeka Kavramları Resmi Web Sitesi
